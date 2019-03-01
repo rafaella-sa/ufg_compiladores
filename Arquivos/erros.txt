@@ -1,0 +1,32 @@
+e00#Início de bloco nao encontrado
+e01#Arquivo já finalizado
+e02#Delimitador "varinicio" nao encontrado
+e03#Operacao nao permitida
+e04#Declaracao de variável incorreta
+e06#Operacao de ES incorreta
+e07#Operacao de atribuicao incorreta
+e08#Operacao condicional incorreta
+e10#Leitura de id nao realizada
+e11#Parametro de escrita nao encontrado
+e12#Operador de atribuicao nao encontrado
+e13#Estrutura condicional incorreta
+e14#Abre parêntese nao encontrado
+e16#Atribuicao de tipo incorreta
+e17#Bloco de variáveis nao delimitado
+e18#Tipo de identificador nao encontrado
+e22#Operacao de ES nao delimitada
+e23#Operacao de ES nao delimitada
+e27#Valor para atribuicao nao encontrado
+e29#Corpo da estrutura condicional incorreto
+e30#Corpo da estrutura condicional incorreto
+e31#Corpo da estrutura condicional incorreto
+e33#Expressao condicional nao encontrada
+e36#Declaracao de tipo nao delimitada
+e42#Atribuicao nao delimitada
+e43#Operador matemático nao encontrado
+e49#Fecha parêntese nao encontrado
+e50#Operador relacional nao encontrado
+e53#Operando nao encontrado
+e54#Estrutura condicional incompleta
+e55#Operando nao encontrado
+

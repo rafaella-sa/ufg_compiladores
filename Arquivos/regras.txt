@@ -1,0 +1,30 @@
+01,1,P',P
+02,3,P,inicio V A
+03,2,V,varinicio LV
+04,2,LV,D LV
+05,2,LV,varfim;
+06,3,D,id TIPO;
+07,1,TIPO,int
+08,1,TIPO,real
+09,1,TIPO,lit
+10,2,A,ES A
+11,3,ES,leia id;
+12,3,ES,escreva ARG;
+13,1,ARG,literal
+14,1,ARG,num
+15,1,ARG,id
+16,2,A,CMD A
+17,4,CMD,id rcb LD;
+18,3,LD,OPRD opm OPRD
+19,1,LD,OPRD
+20,1,OPRD,id
+21,1,OPRD,num
+22,2,A,COND A
+23,2,COND,CABEÇALHO CORPO
+24,5,CABEÇALHO,se (EXP_R) então
+25,3,EXP_R,OPRD opr OPRD
+26,2,CORPO,ES CORPO
+27,2,CORPO,CMD CORPO
+28,2,CORPO,COND CORPO
+29,1,CORPO,fimse
+30,1,A,fim

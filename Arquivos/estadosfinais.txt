@@ -1,0 +1,13 @@
+1#Num#Constante numérica 
+2#Num#Constante numérica 
+3#Num#Constante numérica 
+8#Literal#Constante literal
+9#id#identificador
+13#OPR#Operador Relacional
+14#RCB#Atribuição
+15#OPR#Operador Relacional
+16#OPR#Operador Relacional
+17#OPM#Operador Aritmético
+18#AB_P#Abre Parênteses
+19#FC_P#Fecha Parênteses
+20#PT_V#Ponto e vírgula
